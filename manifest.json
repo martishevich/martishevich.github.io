@@ -1,0 +1,13 @@
+{
+  "name": "100 percent PWA",
+  "short_name": "100% PWA",
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#357df6",
+  "theme_color": "#9013fe",
+  "description": "Description of awesome PWA site",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary"
+}
