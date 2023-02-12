@@ -1,6 +1,7 @@
 {
   "name": "100 percent PWA",
   "short_name": "100% PWA",
+  "id": "/index.html",
   "start_url": "/index.html",
   "scope": ".",
   "display": "standalone",
